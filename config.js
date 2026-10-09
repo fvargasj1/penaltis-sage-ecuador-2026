@@ -7,5 +7,5 @@ window.SAGE_CONFIG = {
   supabaseKey: "sb_publishable_pIeeVGmZZlEnW6WPT7r7nw_AnaBBvJU",
   /* Opcional: enlace público de la página de registro, para que la consola dibuje el QR sola.
      Ejemplo: "https://SU-USUARIO.github.io/SU-REPOSITORIO/" */
-  registroUrl: ""
+  registroUrl: "https://fvargasj1.github.io/penaltis-sage-ecuador-2026/"
 };
